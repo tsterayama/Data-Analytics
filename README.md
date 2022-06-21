@@ -1,2 +1,2 @@
-# Data-Projects: Final Data Analytics Project in AllWomen Bootcamp
-Projects created while taking the AllWomen Data Analysis/ Data Science Bootcamp 
+# Data-Projects: Final Data Analytics Project
+Final project for the data Analysis part of the AllWomen Bootcamp 
